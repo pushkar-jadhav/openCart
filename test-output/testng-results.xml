@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T17:41:33 EDT" name="OpenCartSuite" finished-at="2023-09-11T17:42:41 EDT" duration-ms="68093">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T17:41:33 EDT" name="OpenCartTest" finished-at="2023-09-11T17:42:41 EDT" duration-ms="68093">
+      <class name="testcases.TC_003_LoginDDTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:41:34 EDT" name="setUp" finished-at="2023-09-11T17:41:37 EDT" duration-ms="3575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDDUserLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:41:38 EDT" name="validateDDUserLogin" data-provider="LoginData" finished-at="2023-09-11T17:41:54 EDT" duration-ms="15786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavanoltraining@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDDUserLogin -->
+        <test-method signature="validateDDUserLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:41:54 EDT" name="validateDDUserLogin" data-provider="LoginData" finished-at="2023-09-11T17:42:09 EDT" duration-ms="15455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lakshmi@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laxmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDDUserLogin -->
+        <test-method signature="validateDDUserLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:42:09 EDT" name="validateDDUserLogin" data-provider="LoginData" finished-at="2023-09-11T17:42:25 EDT" duration-ms="15383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laksh@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDDUserLogin -->
+        <test-method signature="validateDDUserLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:42:25 EDT" name="validateDDUserLogin" data-provider="LoginData" finished-at="2023-09-11T17:42:40 EDT" duration-ms="15442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laks@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDDUserLogin -->
+        <test-method signature="validateDDUserLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:42:40 EDT" name="validateDDUserLogin" data-provider="LoginData" finished-at="2023-09-11T17:42:41 EDT" duration-ms="1088" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDDUserLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_003_LoginDDTest@7ef82753]" started-at="2023-09-11T17:42:41 EDT" name="tearDown" finished-at="2023-09-11T17:42:41 EDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_003_LoginDDTest -->
+    </test> <!-- OpenCartTest -->
+  </suite> <!-- OpenCartSuite -->
+</testng-results>

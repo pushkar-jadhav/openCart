@@ -1,0 +1,181 @@
+19:33:57.863 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+19:33:58.355 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+19:33:58.589 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+19:33:58.633 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+19:35:03.379 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+19:35:03.834 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+19:35:04.080 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+19:35:07.144 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+19:35:07.145 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:34:38.547 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:34:39.057 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:34:39.411 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:34:42.476 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:34:42.480 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:42:08.131 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:42:08.594 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:42:08.981 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:42:12.111 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:42:12.114 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:42:30.113 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:42:30.597 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:42:30.936 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:42:34.024 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:42:34.024 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:45:58.714 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:45:58.714 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:45:59.334 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:45:59.425 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:45:59.792 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:45:59.843 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:46:02.871 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:46:02.873 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:46:02.941 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:46:02.941 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+18:04:09.158 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:04:09.559 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:04:09.887 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:04:12.973 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:04:12.975 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+18:44:59.927 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:45:00.692 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:45:00.986 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:45:04.051 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:45:04.053 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+18:46:09.884 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:46:10.397 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:46:10.753 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:46:13.819 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:21:55.604 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+18:21:55.906 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+18:21:56.052 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+18:21:56.095 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+18:21:56.136 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
+19:10:51.726 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:10:52.153 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:10:52.324 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:10:52.373 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:11:07.679 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:11:07.924 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:11:08.101 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:11:08.172 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:11:23.431 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:11:23.682 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:11:23.864 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:11:23.915 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:11:39.147 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:11:39.399 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:11:39.552 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:11:39.615 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:11:54.819 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:11:55.036 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:11:55.140 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:11:55.178 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:11:55.531 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+19:20:59.398 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:20:59.784 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:20:59.965 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:21:00.020 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:21:15.070 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+19:21:15.085 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:21:15.356 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:21:15.545 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:21:15.599 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:21:30.656 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+19:21:30.656 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:21:30.940 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:21:31.135 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:21:31.183 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:21:46.269 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+19:21:46.269 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:21:46.547 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:21:46.777 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:21:46.861 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:22:01.934 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+19:22:01.934 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+19:22:02.176 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+19:22:02.332 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+19:22:02.391 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+19:22:02.868 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+18:11:40.860 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:11:41.263 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:11:41.569 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:11:44.647 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:11:46.884 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+18:11:47.108 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+18:11:47.257 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+18:11:47.315 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+18:11:47.654 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
+18:15:13.282 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:15:13.650 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:15:13.995 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:15:17.051 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:15:17.052 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+18:25:14.531 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:25:14.869 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:25:15.181 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:25:18.267 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:25:20.367 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+18:25:20.689 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+18:25:20.884 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+18:25:20.930 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+18:25:21.413 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
+18:26:05.187 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:26:05.487 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:26:05.767 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:26:08.857 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:26:08.860 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:41:38.652 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+17:41:39.066 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+17:41:39.274 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+17:41:39.313 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+17:41:54.392 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+17:41:54.396 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+17:41:54.643 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+17:41:54.798 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+17:41:54.836 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+17:42:09.851 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+17:42:09.853 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+17:42:10.078 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+17:42:10.176 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+17:42:10.206 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+17:42:25.235 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+17:42:25.237 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+17:42:25.458 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+17:42:25.572 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+17:42:25.607 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+17:42:40.677 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+17:42:40.679 [main] INFO  testcases.TC_003_LoginDDTest - ********Starting validateDDUserLogin********
+17:42:40.924 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login link
+17:42:41.044 [main] INFO  testcases.TC_003_LoginDDTest - Entered username and password
+17:42:41.101 [main] INFO  testcases.TC_003_LoginDDTest - Clicked on login button
+17:42:41.766 [main] INFO  testcases.TC_003_LoginDDTest - ********Finished validateDDUserLogin********
+17:44:50.414 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:44:50.770 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:44:51.074 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:44:54.187 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:44:56.677 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+17:44:56.938 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+17:44:57.075 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+17:44:57.124 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+17:44:57.413 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
+17:58:17.650 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+17:58:18.116 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+17:58:18.380 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+17:58:21.450 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+17:58:21.450 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+17:58:23.330 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+17:58:23.581 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+17:58:23.700 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+17:58:23.748 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+17:58:24.096 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
+18:02:22.711 [main] INFO  testcases.TC_001_AccountRegistration - *******Starting testAccountRegistration*******
+18:02:23.197 [main] INFO  testcases.TC_001_AccountRegistration - Entering registration details
+18:02:23.461 [main] INFO  testcases.TC_001_AccountRegistration - Click on Continue
+18:02:26.517 [main] INFO  testcases.TC_001_AccountRegistration - Validating success message
+18:02:26.521 [main] INFO  testcases.TC_001_AccountRegistration - *******Finished testAccountRegistration*******
+18:02:28.387 [main] INFO  testcases.TC_002_LoginTest - ********Starting validateUserLogin********
+18:02:28.671 [main] INFO  testcases.TC_002_LoginTest - Clicked pn login link
+18:02:28.798 [main] INFO  testcases.TC_002_LoginTest - Entered username and password
+18:02:28.835 [main] INFO  testcases.TC_002_LoginTest - Clicked on login button
+18:02:29.145 [main] INFO  testcases.TC_002_LoginTest - ********Finished validateUserLogin********
